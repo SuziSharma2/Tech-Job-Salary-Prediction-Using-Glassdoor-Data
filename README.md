@@ -1,4 +1,4 @@
-# Tech Job Salary Prediction Using Glassdoor Data
+# Glassdoor Tech Job Salary Prediction and Analysis
 
 ## Overview
 This project uses a dataset from Glassdoor to analyze salary trends and build predictive models using ML algorithms.
